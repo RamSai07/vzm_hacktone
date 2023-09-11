@@ -3,7 +3,7 @@ import { NavBar } from "../navbar/navbar";
 export const Login=()=>{
     return(
         <>
-        <NavBar/>
+        {/* <NavBar/> */}
         <section className="container">
         <header>Login</header>
         <form action="#" className="form">
